@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gregor Singer</title>
-    <link>https://grsing.github.io/tags/</link>
+    <link>https://gregorsinger.com/tags/</link>
     <description>Recent content in Tags on Gregor Singer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://grsing.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gregorsinger.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
