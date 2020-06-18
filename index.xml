@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gregor Singer</title>
@@ -17,7 +17,6 @@
       
       <guid>https://gregorsinger.com/research/</guid>
       <description>Working papers Endogenous markups, input misallocation and geographical supplier access
-
 Air Pollution Increases Influenza Hospitalizations
 (with Josh Graff Zivin, Matthew Neidell and Nicholas Sanders)
 [medrxiv version]
@@ -25,7 +24,7 @@ Publications International and sectoral variation in industrial energy prices 19
 (with Misato Sato, Damien Dussaux and Stefania Lovo)
 Energy Economics (2019), (78) 235–258
 [Data downloadable at Harvard Dataverse]
-[old version here: Grantham Research Institute on Climate Change and the Environment Working Paper (2015), No.</description>
+[old version here: Grantham Research Institute on Climate Change and the Environment Working Paper (2015), No. 187]</description>
     </item>
     
   </channel>
